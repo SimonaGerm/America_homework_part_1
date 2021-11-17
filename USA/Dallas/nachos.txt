@@ -1,0 +1,57 @@
+tsdcfghnjkuįėtęčąq`	 XVotal 13M
+-rw-r--r-- 1 simon 197609    0 Nov 16 22:33 tortilla.txt
+drwxr-xr-x 1 simon 197609    0 Nov 16 22:33 ./
+-rw-r--r-- 1 simon 197609 8.1K Nov 16 21:46 .bash_history
+drwxr-xr-x 1 simon 197609    0 Nov 16 21:42 Desktop/
+-rw-r--r-- 1 simon 197609  14K Nov 16 20:19 .viminfo
+awxr-xr-x 1 simon 197609    0 Nov 16 20:10 OneDrive/
+-rw-r--r-- 1 simon 197609   20 Nov 16 20:04 .lesshst
+drwxr-xr-x 1 simon 197609    0 Nov 15 20:05 .vim/
+-rw-r--r-- 1 simon 197609 9.0M Nov 14 08:13 NTUSER.DAT
+-rw-r--r-- 1 simon 197609 3.9K Nov 14 08:07 Untitled2.ipynb
+drwxr-xr-x 1 simon 197609    0 Nov 14 06:16 Downloads/
+-rw-r--r-- 1 simon 197609   58 Nov 13 16:23 .gitconfig
+drwxr-xr-x 1 simon 197609    0 Nov 13 13:50 .matplotlib/
+drwxr-xr-x 1 simon 197609    0 Nov 13 13:49 .ipynb_checkpoints/
+-rw-r--r-- 1 simon 197609   72 Nov 13 13:29 Untitled1.ipynb
+drwxr-xr-x 1 simon 197609    0 Nov 12 20:26 .jupyter/
+drwxr-xr-x 1 simon 197609    0 Nov 12 07:52 repository/
+-rw-r--r-- 1 simon 197609  25K Nov  4 18:25 python beginner youtube.ipynb
+-rw-r--r-- 1 simon 197609  25K Nov  4 18:22 Untitled.ipynb
+drwxr-xr-x 1 simon 197609    0 Oct 26 22:03 .ipython/
+drwxr-xr-x 1 simon 197609    0 Oct 26 21:58 anaconda3/
+drwxr-xr-x 1 simon 197609    0 Oct 20 23:14 Documents/
+-rw-r--r-- 1 simon 197609    0 Oct 10 13:52 PIP
+drwxr-xr-x 1 simon 197609    0 Oct  9 16:40 PycharmProjects/
+drwxr-xr-x 1 simon 197609    0 Sep 16 18:16 ../
+drwxr-xr-x 1 simon 197609    0 Aug 17 06:24 Microsoft/
+-rw-r--r-- 1 simon 197609  522 Feb 18  2021 .popsql.json
+drwxr-xr-x 1 simon 197609    0 Oct 12  2020 Links/
+drwxr-xr-x 1 simon 197609    0 Oct 12  2020 Saved Games/
+drwxr-xr-x 1 simon 197609    0 Oct 12  2020 Music/
+drwxr-xr-x 1 simon 197609    0 Oct 12  2020 Searches/
+drwxr-xr-x 1 simon 197609    0 Oct 12  2020 Videos/
+drwxr-xr-x 1 simon 197609    0 Oct 12  2020 Favorites/
+drwxr-xr-x 1 simon 197609    0 Oct 12  2020 Contacts/
+drwxr-xr-x 1 simon 197609    0 Oct 12  2020 3D Objects/
+-rw-r--r-- 1 simon 197609   20 Oct 12  2020 ntuser.ini
+drwxr-xr-x 1 simon 197609    0 Oct 12  2020 AppData/
+-rw-r--r-- 1 simon 197609  64K Oct 12  2020 NTUSER.DAT{cc2f4a60-0c9a-11eb-ae1e-b07fa5283b7d}.TM.blf
+-rw-r--r-- 1 simon 197609 512K Oct 12  2020 NTUSER.DAT{cc2f4a60-0c9a-11eb-ae1e-b07fa5283b7d}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 simon 197609 512K Oct 12  2020 NTUSER.DAT{cc2f4a60-0c9a-11eb-ae1e-b07fa5283b7d}.TMContainer00000000000000000002.regtrans-ms
+-rw-r--r-- 1 simon 197609 2.4M Oct 12  2020 ntuser.dat.LOG1
+-rw-r--r-- 1 simon 197609 232K Oct 12  2020 ntuser.dat.LOG2
+lrwxrwxrwx 1 simon 197609   30 Oct 12  2020 Application Data -> /c/Users/simon/AppData/Roaming/
+lrwxrwxrwx 1 simon 197609   58 Oct 12  2020 Cookies -> /c/Users/simon/AppData/Local/Microsoft/Windows/INetCookies/
+lrwxrwxrwx 1 simon 197609   28 Oct 12  2020 Local Settings -> /c/Users/simon/AppData/Local/
+lrwxrwxrwx 1 simon 197609   24 Oct 12  2020 My Documents -> /c/Users/simon/Documents/
+lrwxrwxrwx 1 simon 197609   66 Oct 12  2020 NetHood -> /c/Users/simon/AppData/Roaming/Microsoft/Windows/Network Shortcuts/
+lrwxrwxrwx 1 simon 197609   66 Oct 12  2020 PrintHood -> /c/Users/simon/AppData/Roaming/Microsoft/Windows/Printer Shortcuts/
+lrwxrwxrwx 1 simon 197609   55 Oct 12  2020 Recent -> /c/Users/simon/AppData/Roaming/Microsoft/Windows/Recent/
+lrwxrwxrwx 1 simon 197609   55 Oct 12  2020 SendTo -> /c/Users/simon/AppData/Roaming/Microsoft/Windows/SendTo/
+lrwxrwxrwx 1 simon 197609   59 Oct 12  2020 Start Menu -> /c/Users/simon/AppData/Roaming/Microsoft/Windows/Start Menu/
+lrwxrwxrwx 1 simon 197609   58 Oct 12  2020 Templates -> /c/Users/simon/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 simon 197609    0 Mar 25  2020 Creative Cloud Files/
+drwxr-xr-x 1 simon 197609    0 Feb  1  2020 NCH Software Suite/
+drwxr-xr-x 1 simon 197609    0 Jun 10  2019 IntelGraphicsProfiles/
+drwxr-xr-x 1 simon 197609    0 Dec 19  2018 MicrosoftEdgeBackups/
